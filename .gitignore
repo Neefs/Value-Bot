@@ -1,0 +1,6 @@
+#Venv
+Value-Bot/
+
+config.json
+*.code-workspace
+*.pyc
